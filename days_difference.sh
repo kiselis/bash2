@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Function to calculate absolute days difference between two dates
 # Example of usage: ddif 1986-09-04 2024-05-12
 
